@@ -2,6 +2,7 @@ package menjinyan.java;
 
 import java.util.Scanner;
 
+啪啪啪啪啪呢
 public class Demo02Scanner {
     public static void main(String[] args) {
         //键盘打印
