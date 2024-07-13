@@ -1,6 +1,6 @@
 public class tijiao {
     public static void main(String[] args) {
-        //逻辑运算符
+
 
         //1、& 并且
         //运算逻辑：两边都为真，结果才是真
