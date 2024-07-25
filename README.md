@@ -1,1 +1,7 @@
-用于自己学习Java
+package menjinyan.java;
+
+public class Java {
+public static void main(String[] args) {
+System.out.println("helloworld");
+}
+}
