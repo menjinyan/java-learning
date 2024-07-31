@@ -2,7 +2,7 @@ package src.menjinyan.java;
 
 import java.util.Scanner;
 
-public class Demo02Scanner {
+public class Demo02键盘打印 {
     public static void main(String[] args) {
         //键盘打印
         //创建对象，表示我们要准备用Scanner这个类
