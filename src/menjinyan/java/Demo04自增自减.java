@@ -1,6 +1,6 @@
 package src.menjinyan.java;
 
-public class Demo04ZiZenZiJian {
+public class Demo04自增自减 {
     public static void main(String[] args) {
         //自增自减运算符
         int x=10;

@@ -2,7 +2,7 @@ package src.menjinyan.java;
 
 import java.util.Scanner;
 
-public class Demo12Switch {
+public class Demo12Switch语句 {
     public static void main(String[] args) {
         //switch语句
         //小练习  吃面

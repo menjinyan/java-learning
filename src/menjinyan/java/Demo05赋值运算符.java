@@ -1,6 +1,6 @@
 package src.menjinyan.java;
 
-public class Demo05FuZhiYunSuan {
+public class Demo05赋值运算符 {
     public static void main(String[] args) {
         /*赋值运算符 */
         int a=10;

@@ -1,6 +1,6 @@
 package src.menjinyan.java;
 
-public class Demo06BiJiaoYunSuanFu {
+public class Demo06比较运算符 {
     public static void main(String[] args) {
         /* 比较运算符*/
         //1、判断左右两边是否相等

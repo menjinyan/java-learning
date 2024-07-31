@@ -1,6 +1,6 @@
 package src.menjinyan.java;
 
-public class Demo07LuoJiYunSuanFu {
+public class Demo07逻辑运算符 {
     public static void main(String[] args) {
         //逻辑运算符
 

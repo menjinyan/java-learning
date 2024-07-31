@@ -1,6 +1,6 @@
 package src.menjinyan.java;
 
-public class Demo09If {
+public class Demo09If语句 {
     public static void main(String[] args) {
         //if语句：
         //需求：键盘录入女婿的酒量，如果大于2斤，老丈人给出回应，反之不回应

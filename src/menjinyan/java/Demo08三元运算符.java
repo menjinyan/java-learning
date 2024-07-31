@@ -1,6 +1,6 @@
 package src.menjinyan.java;
 
-public class Demo08SanYuanYunSuanFu {
+public class Demo08三元运算符 {
     public static void main(String[] args) {
 
         //三元运算符
