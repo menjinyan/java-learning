@@ -1,6 +1,6 @@
 package src.menjinyan.java;
 
-public class Demo03SuanSu {
+public class demo03算术运算符 {
     public static void main(String[] args) {
         //算术运算符
 //          // +
