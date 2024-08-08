@@ -1,6 +1,6 @@
 package src.menjinyan.java;
 
-public class Deno16数组的遍历 {
+public class Demo16数组的遍历 {
     public static void main(String[] args) {
 //1、定义数组
         int[] arr = {1, 2, 3, 4, 5};
