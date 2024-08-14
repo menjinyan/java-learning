@@ -11,6 +11,6 @@ public class Demo02键盘打印 {
         //接收数据
         //变量i记录了键盘录入的数据
         int i = sc.nextInt();
-        System.out.println(i);
+        System.out.println(i);//输出
     }
 }
