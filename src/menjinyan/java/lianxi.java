@@ -6,6 +6,6 @@ public class lianxi {
       int a=10,b=20,c=30,d=40;
       System.out.println(a);
       System.out.println(b);
-      System.out.println(d);//
+      System.out.println(d);
     }
 }
