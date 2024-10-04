@@ -1,14 +1,13 @@
-package src.menjinyan.test;
+package src.menjinyan.java;
 
-public class Test17方法的值传递01 {
-    public static void main(String[] args) {
-        /*int number=100;
-        System.out.println("调用change方法前:"+number);//100
-        change(number);
-        System.out.println("调用change方法后:"+number);
-    }
+public class Demo19方法的传递值01 {public static void main(String[] args) {
+    int number=100;
+    System.out.println("调用change方法前:"+number);//100
+    change(number);
+    System.out.println("调用change方法后:"+number);
+}
     public static void change(int number){
-        number=200;*/
+        number=200;
     }
 }
 //为什么是这样呢？

@@ -1,18 +1,15 @@
-package src.menjinyan.test;
+package src.menjinyan.java;
 
-public class Test18方法的值传递02 {
-    public static void main(String[] args) {
-        int[]arr={10,20,30};
-        System.out.println("调用change方法前:" +arr[1]);//20
-        change(arr);
-        System.out.println("调用change方法后:" +arr[1]);//
-    }
+public class Demo20方法的传递值02 {public static void main(String[] args) {
+    int[]arr={10,20,30};
+    System.out.println("调用change方法前:" +arr[1]);//20
+    change(arr);
+    System.out.println("调用change方法后:" +arr[1]);//
+}
     public static void change(int[] arr){
         arr[1]=200;
     }
 }
-
-
 /*public  class ArdsDemo02{
     public static void main(String[] args) {
         int[] arr={10,20,30};
