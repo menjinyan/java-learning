@@ -10,6 +10,6 @@ public class T01 { public static void main(String[] args) {
     //接收数据
     //变量i记录了键盘录入的数据
     int i = sc.nextInt();
-    System.out.println(i);//输出
+    System.out.println(i);//
 }
 }
