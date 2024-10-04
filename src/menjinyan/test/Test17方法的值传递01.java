@@ -1,14 +1,14 @@
 package src.menjinyan.test;
 
-public class Test17方法的值传递 {
+public class Test17方法的值传递01 {
     public static void main(String[] args) {
-        int number=100;
+        /*int number=100;
         System.out.println("调用change方法前:"+number);//100
         change(number);
         System.out.println("调用change方法后:"+number);
     }
     public static void change(int number){
-        number=200;
+        number=200;*/
     }
 }
 //为什么是这样呢？
@@ -49,4 +49,7 @@ public class ArgsDemo01{
     }
 }
 解释：就是把修改完之后的nuber返回给chang number里，也就是还回给调用处
+
+
+若：看不懂，请看视频的73集，仔细观看前半段
  */
