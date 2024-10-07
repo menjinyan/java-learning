@@ -19,28 +19,28 @@ public class 卖飞机票 {
 //2、先判断月份是旺季还是淡季
         if (month >= 5 && month <= 10) {
             //旺季 //3、继续判断当前的机票是经济舱还是头等舱
-            if(seat==0){
+            if (seat == 0) {
                 //4、根据实际情况计算出对应的价格
                 //头等舱
-                ticket=(int)(ticket*0.9);
-            }else if (seat==1){
+                ticket = (int) (ticket * 0.9);
+            } else if (seat == 1) {
                 //经济舱
-                ticket=(int)(ticket*0.85);
-            }else{
-                System.out  .println("没有这个舱位");
-            }
-        } else if ((month >= 1 && month <= 4) ||(month >= 11 && month <= 12)) {
-//淡季
-            if(seat==0){
-                //头等舱
-                ticket=(int)(ticket*0.7);
-            }else if (seat==1){
-                //经济舱
-                ticket=(int)(ticket*0.65);
-            }else{
+                ticket = (int) (ticket * 0.85);
+            } else {
                 System.out.println("没有这个舱位");
             }
-        }else {
+        } else if ((month >= 1 && month <= 4) || (month >= 11 && month <= 12)) {
+//淡季
+            if (seat == 0) {
+                //头等舱
+                ticket = (int) (ticket * 0.7);
+            } else if (seat == 1) {
+                //经济舱
+                ticket = (int) (ticket * 0.65);
+            } else {
+                System.out.println("没有这个舱位");
+            }
+        } else {
             //表示键盘录入的月份是一个非法的数据
             System.out.println("键盘录入的月份不合法");
         }
