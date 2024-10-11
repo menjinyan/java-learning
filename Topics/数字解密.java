@@ -35,7 +35,7 @@ public class 数字解密 {
         for (int i = 0; i < arr.length; i++) {
             number = number * 10 + arr[i];
         }
-        System.out.println(number);//
+        System.out.println(number);
 
     }
 }
