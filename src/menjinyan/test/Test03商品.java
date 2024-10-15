@@ -1,6 +1,6 @@
 package src.menjinyan.test;
 
-public class Test03ShangPin {
+public class Test03商品 {
     public static void main(String[] args) {
         //输出商品信息
         //定义变量,记录手机的价格

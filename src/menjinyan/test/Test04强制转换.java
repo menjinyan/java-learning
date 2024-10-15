@@ -1,6 +1,6 @@
 package src.menjinyan.test;
 
-public class Test04QiangZhiZhuanHuan {
+public class Test04强制转换 {
     public static void main(String[] args) {
         //强制转换练习
         byte b1=10;

@@ -6,7 +6,7 @@ import java.util.Scanner;
 //键盘录入两个数字，表示你和你约会对象衣服的时髦程度（手动录入1~10之间的整数）
 //如果你的时髦程度大于你的约会对象的程度，相亲就会成功输出为true否则为false;
 
-public class Test05JianPanLuRu {
+public class Test05键盘录入 {
     public static void main(String[] args) {
         //1、键盘录入两个整数的时髦度
         Scanner sc = new Scanner(System.in);
