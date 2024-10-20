@@ -1,8 +1,10 @@
-package src.封装;
+package src.面向对象this关键字;
+
+import src.面向对象封装.GirlFriend;
 
 public class GirlFriendTest {
     public static void main(String[] args) {
-        GirlFriend girlFriend = new GirlFriend();
+        src.面向对象封装.GirlFriend girlFriend = new GirlFriend();
         //赋值
         girlFriend.setName("小诗诗");
         girlFriend.setAge(18);

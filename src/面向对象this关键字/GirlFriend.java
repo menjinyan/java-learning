@@ -1,4 +1,4 @@
-package src.this关键字;
+package src.面向对象this关键字;
 
 public class GirlFriend {
     //属性

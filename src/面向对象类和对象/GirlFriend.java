@@ -1,4 +1,4 @@
-package src.类和对象;
+package src.面向对象类和对象;
 
 public class GirlFriend {
     //属性

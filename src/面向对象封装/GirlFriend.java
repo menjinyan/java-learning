@@ -1,4 +1,4 @@
-package src.封装;
+package src.面向对象封装;
 
 public class GirlFriend {
     //属性

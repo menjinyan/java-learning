@@ -1,4 +1,4 @@
-package src.构造方法;
+package src.面向对象构造方法;
 
 public class Student {
     private String name;
