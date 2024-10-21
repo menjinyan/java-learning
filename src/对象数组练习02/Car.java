@@ -1,6 +1,6 @@
 package src.对象数组练习02;
 
-public class car {
+public class Car {
     //定义数组存储的3部汽车对象
     //汽车的属性:品牌，价格，颜色
     //创建三个汽车对象，数据通过键盘录，并把数据存入到数组当中
@@ -10,10 +10,10 @@ public class car {
     private int price;
 
 
-    public car() {
+    public Car() {
     }
 
-    public car(String brand, String color, int price) {
+    public Car(String brand, String color, int price) {
         this.brand = brand;
         this.color = color;
         this.price = price;

@@ -5,12 +5,12 @@ import java.util.Scanner;
 public class CarTest {
     public static void main(String[] args) {
         //1、创建一个数组用来村存3个汽车对象
-        car[] arr = new car[3];
+        Car[] arr = new Car[3];
         //2、创建汽车对象，数据来自于键盘录入
         Scanner sc = new Scanner(System.in);
         for (int i = 0; i < arr.length; i++) {
             //创建汽车对象
-            car c = new car();
+            Car c = new Car();
             //录入品牌
             System.out.println("请输入汽车的品牌");
             String name = sc.next();
@@ -28,7 +28,7 @@ public class CarTest {
 
             //遍历数组
             for (int i1 = 0; i1 < arr.length; i1++) {
-                car car = arr[i];
+                Car car = arr[i];
                 System.out.println(car.getBrand() + " ," + car.getPrice() + " ," + car.getColor());
             }
         }
