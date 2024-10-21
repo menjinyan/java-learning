@@ -1,6 +1,6 @@
 package src.menjinyan.test;
 
-public class 二维数组的练习 {
+public class Test16二维数组的练习 {
     public static void main(String[] args) {
         /*某商城每个季度的营业额如下：单位（万元）
         第一季度：22,66,44

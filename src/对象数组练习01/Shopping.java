@@ -1,4 +1,4 @@
-package src.对象数组练习;
+package src.对象数组练习01;
 
 public class Shopping {
     private String id;
