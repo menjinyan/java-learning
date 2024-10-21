@@ -1,8 +1,8 @@
-package src.对象数组练习02;
+package src.menjinyan.java;
 
 import java.util.Scanner;
 
-public class car2 {
+public class Demo24键盘录入的扩展 {
     public static void main(String[] args) {
         //键盘录入:
         //第一套体系:
@@ -39,3 +39,4 @@ public class car2 {
         System.out.println("line2");
     }
 }
+
