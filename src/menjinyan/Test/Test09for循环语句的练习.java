@@ -1,4 +1,4 @@
-package src.menjinyan.test;
+package src.menjinyan.Test;
 
 public class Test09for循环语句的练习 {
     public static void main(String[] args) {

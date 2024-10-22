@@ -1,4 +1,4 @@
-package src.menjinyan.test;
+package src.menjinyan.Test;
 
 public class Test16二维数组的练习 {
     public static void main(String[] args) {

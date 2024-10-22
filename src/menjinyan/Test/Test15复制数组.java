@@ -1,4 +1,4 @@
-package src.menjinyan.test;
+package src.menjinyan.Test;
 
 import static java.util.Arrays.copyOfRange;
 

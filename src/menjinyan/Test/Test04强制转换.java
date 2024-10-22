@@ -1,4 +1,4 @@
-package src.menjinyan.test;
+package src.menjinyan.Test;
 
 public class Test04强制转换 {
     public static void main(String[] args) {

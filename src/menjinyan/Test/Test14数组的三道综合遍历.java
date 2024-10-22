@@ -1,4 +1,4 @@
-package src.menjinyan.test;
+package src.menjinyan.Test;
 
 public class Test14数组的三道综合遍历 {
     public static void main(String[] args) {

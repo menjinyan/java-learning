@@ -1,4 +1,4 @@
-package src.menjinyan.test;
+package src.menjinyan.Test;
 
 public class Test10打印纸张 {
     public static void main(String[] args) {

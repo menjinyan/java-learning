@@ -1,4 +1,4 @@
-package src.menjinyan.test;
+package src.menjinyan.Test;
 
 import java.util.Scanner;
 //关系运算符的练习（约会）

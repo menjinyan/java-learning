@@ -1,4 +1,4 @@
-package src.menjinyan.test;
+package src.menjinyan.Test;
 
 public class Test06Switch的特性 {
     public static void main(String[] args) {
