@@ -1,4 +1,4 @@
-package src.menjinyan.java;
+package src.menjinyan.Demo;
 
 public class Demo15数组的元素访问 {
     public static void main(String[] args) {

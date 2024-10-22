@@ -1,4 +1,4 @@
-package src.menjinyan.java;
+package src.menjinyan.Demo;
 
 public class Demo21二维数组的静态初始化 {
     public static void main(String[] args) {

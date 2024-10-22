@@ -1,4 +1,4 @@
-package src.menjinyan.java;
+package src.menjinyan.Demo;
 
 public class Demo14数值的地址值 {
     public static void main(String[] args) {

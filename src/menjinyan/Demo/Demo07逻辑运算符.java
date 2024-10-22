@@ -1,4 +1,4 @@
-package src.menjinyan.java;
+package src.menjinyan.Demo;
 
 public class Demo07逻辑运算符 {
     public static void main(String[] args) {

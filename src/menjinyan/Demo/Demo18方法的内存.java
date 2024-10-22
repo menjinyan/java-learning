@@ -1,4 +1,4 @@
-package src.menjinyan.java;
+package src.menjinyan.Demo;
 
 public class Demo18方法的内存 {
     public static void main(String[] args) {

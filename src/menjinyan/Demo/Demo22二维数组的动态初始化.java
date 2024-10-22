@@ -1,4 +1,4 @@
-package src.menjinyan.java;
+package src.menjinyan.Demo;
 
 public class Demo22二维数组的动态初始化 {
     public static void main(String[] args) {

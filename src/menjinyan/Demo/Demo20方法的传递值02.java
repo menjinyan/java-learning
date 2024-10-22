@@ -1,4 +1,4 @@
-package src.menjinyan.java;
+package src.menjinyan.Demo;
 
 public class Demo20方法的传递值02 {public static void main(String[] args) {
     int[]arr={10,20,30};

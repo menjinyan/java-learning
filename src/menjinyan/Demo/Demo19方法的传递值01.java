@@ -1,4 +1,4 @@
-package src.menjinyan.java;
+package src.menjinyan.Demo;
 
 public class Demo19方法的传递值01 {public static void main(String[] args) {
     int number=100;
