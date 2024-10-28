@@ -21,6 +21,8 @@ public class StringDemo01 {
         System.out.println(s4);
 
         //5、传递一个字节数组，根据字节数组的内容再创建一个新的字符串对象
+        //应用场景，以后在网络当中传输的数据其实都是字节信息
+        //我们一般要把字节信息进行转换，转成字符串，此时就要用到这个构造了
         byte[] bytes={1,2,3,4,5};
         String s5 = new String(bytes);
         System.out.println(s5);
