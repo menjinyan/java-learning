@@ -15,7 +15,7 @@ public class StringDemo06统计字符次数 {
         int smallcount = 0;
         int numbercount = 0;
         for (int i = 0; i < str.length(); i++) {
-            //i:以此表示字符串中的每一个索引
+            //i:依次表示字符串中的每一个索引
             char c = str.charAt(i);
             if (c >= 'a' && c <= 'z') {
                 smallcount++;
