@@ -12,7 +12,7 @@ public class StringBuilderDemo02 {
         System.out.println(s2);
 
         //3、再把StringBuilder变回字符串
-        String str=s2.toString();
+        String str = s2.toString();
         System.out.println(str);
         //用toString方法变回字符串
     }
