@@ -21,6 +21,7 @@ public class StringBuilderDemo04对称字符串 {
 
         //2、反转字符串
         String result = new StringBuilder().append(str).reverse().toString();
+
         //3、比较
         if (str.equals(result)) {
             System.out.println("当前字符串是对称字符串");
