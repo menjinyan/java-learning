@@ -1,4 +1,4 @@
-package src.字符串;
+package src.String;
 
 public class StringDemo12敏感词替换 {
     public static void main(String[] args) {

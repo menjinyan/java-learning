@@ -1,4 +1,4 @@
-package src.字符串;
+package src.String;
 
 public class StringDemo11身份证信息查看 {
     public static void main(String[] args) {

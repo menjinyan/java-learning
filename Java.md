@@ -212,3 +212,28 @@ java API:就是指JDK中提供的各种功能的Java类
 String Builder 可以看作是一个容器，创建之后里面的内容是可变的
 作用：提高字符串的操作效率
 ```
+### StringJoiner
+```
+StringJoiner和StringBuilder一样，也可以看成是一个容器，创建之后里面的内容是可变的。
+作用:提高字符串的操作效率，而且代码编写的特别简洁，但是目前市场上很少有人用
+
+StringJoiner的构造方法
+方法名:public StringJoiner(间隔符号) 说明:创建一个StringJoiner对象，指定拼接时的间隔符号
+方法名:public StringJoiner(间隔符号，开始符号，结束符号) 说明:创建一个StringJoiner对象，指定拼接时的间隔符号，开始符号，结束符号
+
+StringJoiner的成员方法
+public StringJoiner add(添加的内容) 说明:添加数据，并返回对象本身
+public intlength() 说明；返回长度（字符串出现的个数）
+public String toString() 说明:返回一个字符串(该字符串就是拼接之后的结果)
+```
+### 字符串的原理
+```
+扩展底层原理一:字符串存储的内存原理
+1、直接赋值会复用字符串常量池中的
+2、new出来的不会复用，而是开辟一个新的空间
+扩展原理二:==号比较到底是什么?
+1、基于数据类型比较数据值
+2、引用数据类型比较地址值
+扩展原理三:字符串拼接的底层原理
+JDK8字符串拼接的底层原理
+```

@@ -1,4 +1,4 @@
-package src.字符串;
+package src.String;
 
 public class StringDemo10手机号屏蔽 {
     public static void main(String[] args) {

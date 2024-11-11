@@ -1,4 +1,4 @@
-package src.字符串;
+package src.String;
 
 public class StringDemo07拼接字符串 {
     public static void main(String[] args) {
