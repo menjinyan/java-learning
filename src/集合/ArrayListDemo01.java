@@ -46,7 +46,6 @@ public class ArrayListDemo01 {
         //6、遍历元素
         for (int i = 0; i < list.size(); i++) {
             //i表示索引
-
             //list.get(i) 元素
             String str = list.get(i);
             System.out.println(str);
