@@ -23,9 +23,9 @@ public class Test03添加学生对象并遍历 {
 
         //4、遍历集合
         for (int i = 0; i < list.size(); i++) {
-            //i索引 list.get(i) 这个就是元素1也就是我们添加的学生对象
+            //i索引 list.get(i) 这个就是元素i也就是我们添加的学生对象
             Student stu = list.get(i);
-            System.out.println(stu.getName()+","+stu.getAge());
+            System.out.println(stu.getName() + "," + stu.getAge());
         }
     }
 }
