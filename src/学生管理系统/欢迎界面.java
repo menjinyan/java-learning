@@ -108,11 +108,20 @@ public class 欢迎界面 {
         }
         //当前代码执行到这里，表示当前id是存在的
         //获取要修改的学生对象
-        Student s = list.get(index);
+        Student stu = list.get(index);
         //输入其他的信息进行比较、
         System.out.println("请输入要修改的学生姓名");
-        String name = sc.next();
+        String newName = sc.next();
+        stu.setName(newName);
 
+        System.out.println("请输入要修改的学生年龄");
+        int newAge = sc.nextInt();
+        stu.setAge(newAge);
+
+        System.out.println("请输入要修改的学生家庭住址");
+        String newAddress = sc.next();
+        stu.setAddress(newAddress);
+        System.out.println("学生信息修改成功");
     }
 
     //查询学生
@@ -163,6 +172,4 @@ public class 欢迎界面 {
         //当前循环结束之后没有找到，就表示不存在，返回-1
         return -1;
     }
-
 }
-//看到11.49
