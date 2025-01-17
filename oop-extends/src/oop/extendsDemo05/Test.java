@@ -27,10 +27,14 @@ class OverseasStudent extends Person {
         super.drink();//喝开水
     }
 
+    //应用场景:当父类中的方法，不能满足子类中现在的需求时，我们就需要把这个方法进行重写
+    //注意:子类重写的方法中子类要加上@Override
+    @Override
     public void eat() {
         System.out.println("吃意大利面");
     }
 
+    @Override
     public void drink() {
         System.out.println("咖啡");
     }
