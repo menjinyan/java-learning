@@ -421,7 +421,9 @@ super调用:直接找父类
 五、重写的本质
 覆盖虚方法表中的方法
 ```
+
 ### 继承中构造方法的访问特点
+
 ```
 1、父类中的构造方法不会被子类继承
 2、子类中的所有的构造方法会默认先访问父类中的无参构造，再执行自己
@@ -445,21 +447,25 @@ this super使用的总结
 如下图
 
 ```
+
 ![img.png](document/image/img.png)
 
-### 面向对象的三大特征:  
-![img_1.png](document/image/img_1.png)  
+## 认识多态
+
+### 面向对象的三大特征:
+
+![img_1.png](document/image/img_1.png)
 
 1. **什么是封装:**  
-![img_2.png](document/image/img_2.png)  
-有了封装之后就可以把整体的对象传递给方法  
+   ![img_2.png](document/image/img_2.png)  
+   有了封装之后就可以把整体的对象传递给方法
 
 2. **什么是继承:**  
-![img_3.png](document/image/img_3.png)  
-此图的上面是父类下面是子类，在子类中可以访问父类中非私有的成员，继承也可以解决javabean中代码重复的问题，当然继承也就是多态的前提体条件  
+   ![img_3.png](document/image/img_3.png)  
+   此图的上面是父类下面是子类，在子类中可以访问父类中非私有的成员，继承也可以解决javabean中代码重复的问题，当然继承也就是多态的前提体条件
 
 3. **什么是多态:**  
-![img_4.png](document/image/img_4.png)  
+   ![img_4.png](document/image/img_4.png)
 
 4. 多态的总结:  
-![img.png](document/image/img.png)
+   ![img.png](document/image/img.png)
