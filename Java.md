@@ -450,14 +450,13 @@ this super使用的总结
 ### 面向对象的三大特征:  
 ![img_1.png](document/image/img_1.png)  
 
-**什么是封装:**  
+1. **什么是封装:**  
 ![img_2.png](document/image/img_2.png)  
 有了封装之后就可以把整体的对象传递给方法  
 
-**什么是继承:**  
+2. **什么是继承:**  
 ![img_3.png](document/image/img_3.png)  
 此图的上面是父类下面是子类，在子类中可以访问父类中非私有的成员，继承也可以解决javabean中代码重复的问题，当然继承也就是多态的前提体条件  
 
-**什么是多态:**  
-
+3. **什么是多态:**
 ![img_4.png](document/image/img_4.png)
