@@ -453,7 +453,7 @@ this super使用的总结
 
 ## 认识多态
 
-### 面向对象的三大特征:
+### 一:面向对象的三大特征:
 
 ![img_1.png](document/image/img_1.png)
 
@@ -470,5 +470,5 @@ this super使用的总结
 
 4. 多态的总结:  
    ![img.png](document/image/img.png)  
-### 多态调用成员的特点  
+### 二:多态调用成员的特点  
 ![img.png](img.png)
