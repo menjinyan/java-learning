@@ -461,5 +461,5 @@ this super使用的总结
 3. **什么是多态:**  
 ![img_4.png](document/image/img_4.png)  
 
-多态的总结:  
+4. 多态的总结:  
 ![img.png](document/image/img.png)
