@@ -469,4 +469,6 @@ this super使用的总结
    ![img_4.png](document/image/img_4.png)
 
 4. 多态的总结:  
-   ![img.png](document/image/img.png)
+   ![img.png](document/image/img.png)  
+### 多态调用成员的特点  
+![img.png](img.png)
