@@ -448,7 +448,8 @@ this super使用的总结
 
 ```
 
-![img.png](document/image/img.png)
+![img.png](document/image/img.png)  
+***
 
 ## 认识多态
 
