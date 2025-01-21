@@ -459,4 +459,7 @@ this super使用的总结
 此图的上面是父类下面是子类，在子类中可以访问父类中非私有的成员，继承也可以解决javabean中代码重复的问题，当然继承也就是多态的前提体条件  
 
 3. **什么是多态:**  
-![img_4.png](document/image/img_4.png)
+![img_4.png](document/image/img_4.png)  
+
+多态的总结:  
+![img.png](document/image/img.png)
