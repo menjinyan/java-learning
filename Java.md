@@ -402,7 +402,7 @@ this是在本类的成员位置找
 5、私有方法不能重写
 6、子类不能重写父类的静态方法，如果重写会报错
 7、只有被添加到虚方法表中的方法才能被重写
-
+ 
 总结:
 一、继承中成员方法的访问特点
 this调用:就近原则
@@ -471,4 +471,7 @@ this super使用的总结
 4. 多态的总结:  
    ![img.png](document/image/img.png)  
 ### 二:多态调用成员的特点  
-![img.png](img.png)
+![img.png](document/image/img.png)  
+多态的优势  
+![img.png](img.png)  
+若是图解看不懂请看视频的**131集**
