@@ -470,13 +470,15 @@ this super使用的总结
 
 4. 多态的总结:  
    ![img.png](document/image/img.png)  
+***
 ### 二:多态调用成员的特点  
 ![img.png](document/image/img.png)  
 **多态的优势**  
 ![img.png](document/image/img.png)  
 若是图解看不懂请看视频的**131集**  
 **多态的总结:**  
-![img.png](document/image/img.png)
+![img.png](document/image/img.png) 
+***
 ### 什么是包?  
 包就是文件夹，用来管理不同功能Java类，方便后期代码维护  
 包的命名规则:公司域名反写+包的作用，需要全部英=英文小写，见名知意，比如com.itheima.domain(domain装的都是Javabean类)
