@@ -476,7 +476,7 @@ this super使用的总结
 **多态的优势**  
 ![img.png](document/image/img.png)  
 若是图解看不懂请看视频的**131集**  
-【黑马程序员Java零基础视频教程_上部(Java入门，含斯坦福大学练习题+力扣算法题和大厂java面试题）】 https://www.bilibili.com/video/BV17F411T7Ao/?p=131&share_source=copy_web&vd_source=bc2aaa760b8f4203c3219c940bb28e72
+http://u5a.cn/yPJJT
 **多态的总结:**  
 ![img.png](document/image/img.png) 
 ***
