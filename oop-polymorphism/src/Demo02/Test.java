@@ -32,7 +32,7 @@ public class Test {
 
         //新特性（就是可以把哦、判断和强转合在一起写，不用和上面一样麻烦）
         //先判断a是否为Dog类型，如果是，则强制转换为Dog类型，转换之后变量名为d
-        //如果不是则不强转，结果直接是fale
+        //如果不是则不强转，结果直接是false
         if (a instanceof Dog d) {
             d.lookhome();
         } else if (a instanceof Cat c) {
