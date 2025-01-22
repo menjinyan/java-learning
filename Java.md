@@ -476,4 +476,4 @@ this super使用的总结
 ![img.png](document/image/img.png)  
 若是图解看不懂请看视频的**131集**  
 **多态的总结:**  
-![img_1.png](document/image/img_1.png)
+![img.png](document/image/img.png)
