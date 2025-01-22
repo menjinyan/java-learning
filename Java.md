@@ -476,7 +476,7 @@ this super使用的总结
 **多态的优势**  
 ![img.png](document/image/img.png)  
 若是图解看不懂请看视频的**131集**  
-http://u5a.cn/yPJJT
+http://u5a.cn/yPJJT  
 **多态的总结:**  
 ![img.png](document/image/img.png) 
 ***
