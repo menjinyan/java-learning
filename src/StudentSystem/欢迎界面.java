@@ -1,6 +1,5 @@
-package src.学生管理系统;
+package src.StudentSystem;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Scanner;
 

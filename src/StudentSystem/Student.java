@@ -1,4 +1,4 @@
-package src.学生管理系统;
+package src.StudentSystem;
 
 public class Student {
     private String id;

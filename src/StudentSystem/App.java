@@ -1,8 +1,5 @@
-package src.学生管理系统;
+package src.StudentSystem;
 
-import src.学生管理系统.User;
-
-import javax.swing.*;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
