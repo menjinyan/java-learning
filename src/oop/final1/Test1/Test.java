@@ -1,4 +1,4 @@
-package src.oop.Test1;
+package src.oop.final1.Test1;
 
 public class Test {
     public static void main(String[] args) {

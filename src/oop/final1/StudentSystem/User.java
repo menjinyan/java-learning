@@ -1,4 +1,4 @@
-package src.oop.StudentSystem;
+package src.oop.final1.StudentSystem;
 
 public class User {
     private String usernamne;

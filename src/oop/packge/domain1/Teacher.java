@@ -1,13 +1,13 @@
-package Demo01;
+package src.oop.packge.domain1;
 
-public class Person {
+public class Teacher {
     private String name;
     private int age;
 
-    public Person() {
+    public Teacher() {
     }
 
-    public Person(int age, String name) {
+    public Teacher(int age, String name) {
         this.age = age;
         this.name = name;
     }
@@ -26,9 +26,5 @@ public class Person {
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    public void show() {
-        System.out.println(name + "," + age);
     }
 }
