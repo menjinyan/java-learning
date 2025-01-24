@@ -4,6 +4,13 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class 欢迎界面 {
+    private static final String ADD_STUDENT = "1";
+    private static final String DELET_STUDENT = "2";
+    private static final String UPDATE_STUDENT = "3";
+    private static final String QUERY_STUDENT = "4";
+    private static final String EXIT = "5";
+
+
     public static void main(String[] args) {
         ArrayList<Student> list = new ArrayList<>();
         A:
@@ -17,12 +24,12 @@ public class 欢迎界面 {
             System.out.println("请输入您的选择");
             Scanner sc = new Scanner(System.in);
             String choose = sc.next();
-            switch (choose) {
-                case "1" -> addStudent(list);
-                case "2" -> deletStudent(list);
-                case "3" -> updateStudent(list);
-                case "4" -> queryStudent(list);
-                case "5" -> {
+            switch (choose) { //在这里用户来了一个choose选择
+                case ADD_STUDENT -> addStudent(list);//如果添加学生就执行这一段
+                case DELET_STUDENT -> deletStudent(list);//如果删除学生就执行这一段
+                case UPDATE_STUDENT -> updateStudent(list);//如果添加学生就执行这一段
+                case QUERY_STUDENT -> queryStudent(list);//如果查询学生就执行这一段
+                case EXIT -> {//如果是这段就执行下面的退出代码逻辑
                     System.out.println("退出学生");
                     break A;
                 }
