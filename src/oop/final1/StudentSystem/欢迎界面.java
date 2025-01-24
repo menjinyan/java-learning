@@ -2,7 +2,7 @@ package src.oop.final1.StudentSystem;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//莫i送
 public class 欢迎界面 {
     private static final String ADD_STUDENT = "1";
     private static final String DELET_STUDENT = "2";
