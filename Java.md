@@ -489,7 +489,7 @@ http://u5a.cn/yPJJT
 2. 使用Java。lang包中的类时，不需要导包
 3. 其他情况都需要导包  
 4. 如果同时使用两个包中的同类名，需要用全类名  
-总结:![img.png](img.png)  
+总结:![img.png](document/image/关于包的总结.png)  
 ### 认识final  
 1. 用final修饰方法:表明该方是最终方法，不能被重写
 2. 用final修饰类:表明该方法是最终类，不能被继承
