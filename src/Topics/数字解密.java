@@ -1,4 +1,4 @@
-package Topics;
+package src.Topics;
 
 public class 数字解密 {
     public static void main(String[] args) {

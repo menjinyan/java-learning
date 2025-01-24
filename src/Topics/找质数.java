@@ -1,4 +1,4 @@
-package Topics;
+package src.Topics;
 
 public class 找质数 {
     public static void main(String[] args) {

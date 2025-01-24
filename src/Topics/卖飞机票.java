@@ -1,8 +1,8 @@
-package Topics;
+package src.Topics;
 
 import java.util.Scanner;
 
-public class 卖飞机票pro {
+public class 卖飞机票 {
     public static void main(String[] args) {
         /* 需求：
     机票的价格是按照淡旺季、头等舱和经济舱进行收费的，输入机票原价，月份和头等舱或者经济舱。
@@ -19,28 +19,32 @@ public class 卖飞机票pro {
 //2、先判断月份是旺季还是淡季
         if (month >= 5 && month <= 10) {
             //旺季 //3、继续判断当前的机票是经济舱还是头等舱
-            ticket = getprice(ticket, seat, 0.9, 0.85);
+            if (seat == 0) {
+                //4、根据实际情况计算出对应的价格
+                //头等舱
+                ticket = (int) (ticket * 0.9);
+            } else if (seat == 1) {
+                //经济舱
+                ticket = (int) (ticket * 0.85);
+            } else {
+                System.out.println("没有这个舱位");
+            }
         } else if ((month >= 1 && month <= 4) || (month >= 11 && month <= 12)) {
 //淡季
-            ticket = getprice(ticket, seat, 0.7, 0.65);
+            if (seat == 0) {
+                //头等舱
+                ticket = (int) (ticket * 0.7);
+            } else if (seat == 1) {
+                //经济舱
+                ticket = (int) (ticket * 0.65);
+            } else {
+                System.out.println("没有这个舱位");
+            }
         } else {
             //表示键盘录入的月份是一个非法的数据
             System.out.println("键盘录入的月份不合法");
         }
         System.out.println(ticket);
     }
-
-    public static int getprice(int ticket, int seat, double vo, double v1) {
-        //淡季
-        if (seat == 0) {
-            //头等舱
-            ticket = (int) (ticket * 0.7);
-        } else if (seat == 1) {
-            //经济舱
-            ticket = (int) (ticket * 0.65);
-        } else {
-            System.out.println("没有这个舱位");
-        }
-        return ticket;
-    }
 }
+

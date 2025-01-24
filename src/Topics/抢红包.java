@@ -1,4 +1,4 @@
-package Topics;
+package src.Topics;
 
 import java.util.Random;
 
