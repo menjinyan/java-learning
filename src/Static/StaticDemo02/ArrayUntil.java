@@ -1,4 +1,4 @@
-package StaticDemo02;
+package src.Static.StaticDemo02;
 
 public class ArrayUntil {
     //私有化构造方法

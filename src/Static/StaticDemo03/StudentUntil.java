@@ -1,6 +1,6 @@
-package StaticDemo03;
+package src.Static.StaticDemo03;
 
-import StaticDemo01.StudentTest;
+import src.Static.StaticDemo01.StudentTest;
 
 import java.util.ArrayList;
 

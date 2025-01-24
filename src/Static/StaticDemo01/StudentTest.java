@@ -1,4 +1,4 @@
-package StaticDemo01;
+package src.Static.StaticDemo01;
 
 public class StudentTest {
     public static void main(String[] args) {

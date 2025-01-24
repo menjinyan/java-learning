@@ -1,4 +1,4 @@
-package StaticDemo02;
+package src.Static.StaticDemo02;
 
 import java.lang.reflect.Array;
 

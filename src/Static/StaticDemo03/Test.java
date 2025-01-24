@@ -1,4 +1,4 @@
-package StaticDemo03;
+package src.Static.StaticDemo03;
 
 import java.sql.SQLOutput;
 import java.util.ArrayList;

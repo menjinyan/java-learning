@@ -1,4 +1,4 @@
-package StaticDemo04;
+package src.Static.StaticDemo04;
 
 /*总结:静态方法中没有this关键字
     静态方法中，只能访问静态
