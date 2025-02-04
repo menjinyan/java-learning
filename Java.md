@@ -448,43 +448,43 @@ this super使用的总结
 
 ```
 
-![img.png](document/image/img.png)  
+![img.png](document/image/包的总结.png)  
 ***
 
 ## 认识多态
 
 ### 一:面向对象的三大特征:
 
-![img_1.png](document/image/img_1.png)
+![img_1.png](document/image/类的规则.png)
 
 1. **什么是封装:**  
-   ![img_2.png](document/image/img_2.png)  
+   ![img_2.png](document/image/封装.png)  
    有了封装之后就可以把整体的对象传递给方法
 
 2. **什么是继承:**  
-   ![img_3.png](document/image/img_3.png)  
+   ![img_3.png](document/image/继承.png)  
    此图的上面是父类下面是子类，在子类中可以访问父类中非私有的成员，继承也可以解决javabean中代码重复的问题，当然继承也就是多态的前提体条件
 
 3. **什么是多态:**  
-   ![img_4.png](document/image/img_4.png)
+   ![img_4.png](document/image/关于多态.png)
 
 4. 多态的总结:  
-   ![img.png](document/image/img.png)  
+   ![img.png](document/image/包的总结.png)  
 ***
 ### 二:多态调用成员的特点  
-![img.png](document/image/img.png)  
+![img.png](document/image/包的总结.png)  
 **多态的优势**  
-![img.png](document/image/img.png)  
+![img.png](document/image/包的总结.png)  
 若是图解看不懂请看视频的**131集**  
 http://u5a.cn/yPJJT  
 **多态的总结:**  
-![img.png](document/image/img.png) 
+![img.png](document/image/包的总结.png) 
 ***
 ### 什么是包?  
 包就是文件夹，用来管理不同功能Java类，方便后期代码维护  
 包的命名规则:公司域名反写+包的作用，需要全部英=英文小写，见名知意，比如com.itheima.domain(domain装的都是Javabean类)  
 ### 使用其他类的规则  
-![img_1.png](document/image/img_1.png)  
+![img_1.png](document/image/类的规则.png)  
 1. 使用其他类时，不需导包  
 2. 使用Java。lang包中的类时，不需要导包
 3. 其他情况都需要导包  
@@ -501,4 +501,9 @@ http://u5a.cn/yPJJT
 2. 多个单词:全部大写，单词之间用下划线隔开  
 **细节**  
 final修饰的变量是基本的类型，那么变量存储的数据值不能发生改变  
-final修饰的变量是引用类型，那么变量存储的地址值不能发生改变，对象内部的可以改变
+final修饰的变量是引用类型，那么变量存储的地址值不能发生改变，对象内部的可以改变  
+
+### 权限修饰符  
+![img.png](document/image/权限修饰符.png)  
+权限修饰符的分类  
+![img.png](document/image/权限修饰符的的分类.png)
