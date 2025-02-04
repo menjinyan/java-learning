@@ -506,4 +506,5 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ### 权限修饰符  
 ![img.png](document/image/权限修饰符.png)  
 权限修饰符的分类  
-![img.png](document/image/权限修饰符的的分类.png)
+![img.png](document/image/权限修饰符的的分类.png)  
+![img.png](document/image/权限修饰符的分类1.png)
