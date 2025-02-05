@@ -513,9 +513,9 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ![img.png](document/image/修饰权限符的使用规则.png)  
 ***
 ### 代码块  
-* 构造代码块  
+**构造代码块**  
 ![img.png](document/image/构造代码块.png)  
-* 静态代码块  
+**静态代码块**  
 ![img.png](document/image/静态代码块.png)  
 **代码块的总结**  
 ![img.png](document/image/代码块的总结.png)
