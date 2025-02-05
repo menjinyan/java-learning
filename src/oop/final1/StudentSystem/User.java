@@ -1,7 +1,7 @@
 package src.oop.final1.StudentSystem;
 
 public class User {
-    private String usernamne;
+    private String Username;
     private String password;
     private String personID;
     private String PhoneNumber;
@@ -9,11 +9,11 @@ public class User {
     public User() {
     }
 
-    public User(String password, String personID, String phoneNumber, String usernamne) {
+    public User(String password, String personID, String phoneNumber, String Username) {
         this.password = password;
         this.personID = personID;
         PhoneNumber = phoneNumber;
-        this.usernamne = usernamne;
+        this.Username = Username;
     }
 
     public String getPassword() {
@@ -40,12 +40,12 @@ public class User {
         PhoneNumber = phoneNumber;
     }
 
-    public String getUsernamne() {
-        return usernamne;
+    public String getUsername() {
+        return Username;
     }
 
-    public void setUsernamne(String usernamne) {
-        this.usernamne = usernamne;
+    public void setUsernamne(String Username) {
+        this.Username = Username;
     }
 }
 ////aaa

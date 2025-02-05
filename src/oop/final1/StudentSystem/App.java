@@ -5,8 +5,14 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class App {
+    static ArrayList<User> list = new ArrayList<>();
+    static{
+        //添加一些用户信息
+list.add(new User("1234567sdf","123456qwrer","34245671354","zhangsan"));
+    }
+
+
     public static void main(String[] args) {
-        ArrayList<User> list = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
         while (true) {
             System.out.println("欢迎来到学生管理系统");
@@ -186,15 +192,14 @@ public class App {
         for (int i = 0; i < list.size(); i++) {
             //i在这里还是表示集合当中的每一个索引
             User user = list.get(i);//使用get方法拿到每一个用户
-            String rightUserNmae = user.getUsernamne();//表示集合里面的用户信息都是正确的意思
-            if (username.equals(rightUserNmae)) {//拿着正确的用户名和正在查找的用户名来做一个比较
+            String rightUserName = user.getUsername();//表示集合里面的用户信息都是正确的意思
+            if (username.equals(rightUserName)) {//拿着正确的用户名和正在查找的用户名来做一个比较
                 return true;
             }
         }
         //当循环结束了，就表示集合里面的所有用户都比较完毕了，还没有一样的就返回false
         return false;
     }
-
 
     private static boolean checkUsername(String username) {
         //用户名长度必须要在3~15之间
@@ -232,11 +237,11 @@ public class App {
 
 //输入用户名
         System.out.println("请输入用户名");
-        String inputUsernam = sc.next();
+        String inputUsername = sc.next();
         //查找用户是否存在
         User foundUser = null;
         for (User user : list) {
-            if (user.getUsernamne().equals(inputUsernam)) {
+            if (user.getUsername().equals(inputUsername)) {
                 foundUser = user;
                 break;
             }

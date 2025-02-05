@@ -502,6 +502,7 @@ http://u5a.cn/yPJJT
 **细节**  
 final修饰的变量是基本的类型，那么变量存储的数据值不能发生改变  
 final修饰的变量是引用类型，那么变量存储的地址值不能发生改变，对象内部的可以改变  
+***
 
 ### 权限修饰符  
 ![img.png](document/image/权限修饰符.png)  
@@ -509,4 +510,12 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ![img.png](document/image/权限修饰符的的分类.png)  
 ![img.png](document/image/权限修饰符的分类1.png)  
 **修饰权限符的使用规则**  
-![img.png](document/image/修饰权限符的使用规则.png)
+![img.png](document/image/修饰权限符的使用规则.png)  
+***
+### 代码块  
+* 构造代码块  
+![img.png](构造代码块.png)  
+* 静态代码块  
+![img.png](静态代码块.png)
+ 
+
