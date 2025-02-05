@@ -514,8 +514,10 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ***
 ### 代码块  
 * 构造代码块  
-![img.png](构造代码块.png)  
+![img.png](document/image/构造代码块.png)  
 * 静态代码块  
-![img.png](静态代码块.png)
+![img.png](document/image/静态代码块.png)  
+**代码块的总结**  
+![img.png](document/image/代码块的总结.png)
  
 
