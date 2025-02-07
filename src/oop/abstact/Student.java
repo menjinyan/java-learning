@@ -1,11 +1,11 @@
 package src.oop.abstact;
 
 public class Student extends Person {
-
     public Student() {
+
     }
 
-    public Student(int age, String name) {
+    public Student(String name, int age) {
         super(age, name);
     }
 

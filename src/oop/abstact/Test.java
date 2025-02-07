@@ -5,7 +5,8 @@ public class Test {
         //创建对象
         //Person p =new Person();
 
-        Student s = new Student(23, "zhangsan");
+        Student s = new Student("zhangsan",23);
         System.out.println(s.getName() + "," + s.getAge());
+
     }
 }
