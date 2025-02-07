@@ -518,6 +518,13 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 **静态代码块**  
 ![img.png](document/image/静态代码块.png)  
 **代码块的总结**  
-![img.png](document/image/代码块的总结.png)
+![img.png](document/image/代码块的总结.png)  
+***  
+### 抽象方法  
+![img.png](document/image/抽象方法.png)  
+### 抽象类和抽象方法的定义格式  
+![img.png](document/image/抽象类和抽象方法的定义格式.png)  
+### 抽象类和抽象方法的注意事项  
+![img.png](document/image/抽象类和抽象方法的注意事项.png)
  
 
