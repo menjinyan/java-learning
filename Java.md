@@ -558,8 +558,8 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ![img.png](document/image/适配器模式的练习及其总结.png)  
 ***  
 ### 内部类  
-* 分类:
-![img.png](document/image/内部类的分类.png)  
+* 分类:  
+  ![img.png](document/image/内部类的分类.png)
 * 什么是内部类?  
 ![img.png](document/image/什么是内部类.png)  
 * 为什么要学习内部类?  
