@@ -544,9 +544,9 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ![img.png](document/image/JDK8之后接口新增的默认方法.png)  
 ![img.png](document/image/JDK8之后新增的静态方法.png)
 * JDK9新增的方法  
-![img.png](document/image/JDK9新增的方法.png)
-**格式1是给默认方法用的--格式2是给静态方法用的**
-**格式的private void show(){}的private void中间是不加default关键字的**  
+![img.png](document/image/JDK9新增的方法.png)  
+  **格式1是给默认方法用的--格式2是给静态方法用的**
+  **格式的private void show(){}的private void中间是不加default关键字的**
 * 总结  
 ![img.png](document/image/JDK7-9的方法总结.png)  
 **接口**  
