@@ -553,7 +553,9 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 * 总结:  
 ![img.png](document/image/接口的总结.png)  
 **适配器设计模式**  
-![img.png](document/image/适配器设计模式.png)
+![img.png](document/image/适配器设计模式.png)  
+* 总结:  
+![img.png](document/image/适配器模式的练习及其总结.png)
 
 
 
