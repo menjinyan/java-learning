@@ -537,7 +537,14 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ### 接口中成员的特点  
 ![img.png](document/image/接口中成员特点.png)  
 ### 接口和类之间的关系  
-![img.png](document/image/接口和类之间的关系.png)
+![img.png](document/image/接口和类之间的关系.png)  
+### 关于接口多学三招  
+* JDK8开始之后接口中新增的方法  
+![img.png](document/image/JDK8之后开始接口中新增的方法.png)  
+![img.png](document/image/JDK8之后接口新增的默认方法.png)  
+![img.png](document/image/JDK8之后新增的静态方法.png)  
+* JDK9新增的方法 
+![img.png](document/image/JDK9新增的方法.png)
 
 
 
