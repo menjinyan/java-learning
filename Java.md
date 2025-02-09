@@ -533,7 +533,13 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 **为什么有接口?** 
 接口:就是一种规则，是对行为的抽象  
 **接口的定义个使用**  
-![img.png](document/image/接口的定义和使用.png)
+![img.png](document/image/接口的定义和使用.png)  
+### 接口中成员的特点  
+![img.png](document/image/接口中成员特点.png)  
+### 接口和类之间的关系  
+![img.png](document/image/接口和类之间的关系.png)
+
+
 
 
  

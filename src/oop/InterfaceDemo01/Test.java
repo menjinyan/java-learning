@@ -1,4 +1,4 @@
-package src.oop.带有接口抽象对象的Javabean类;
+package src.oop.InterfaceDemo01;
 
 
 public class Test {
