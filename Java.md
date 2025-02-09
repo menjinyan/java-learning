@@ -543,6 +543,7 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ![img.png](document/image/JDK8之后开始接口中新增的方法.png)  
 ![img.png](document/image/JDK8之后接口新增的默认方法.png)  
 ![img.png](document/image/JDK8之后新增的静态方法.png)  
+
 * JDK9新增的方法 
 ![img.png](document/image/JDK9新增的方法.png)  
 **格式1是给默认方法用的--格式2是给静态方法用的**
@@ -564,6 +565,8 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ![img.png](document/image/什么是内部类.png)  
 * 为什么要学习内部类?  
 ![img.png](document/image/为什么要学习内部类.png)
+* 内部类的总结:  
+![img.png](document/image/内部类的总结.png)
 
 
 
