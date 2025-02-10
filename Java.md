@@ -567,7 +567,15 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 * 内部类的总结:  
 ![img.png](document/image/内部类的总结.png)  
 * 内部类的分类  
-![img.png](document/image/内部的分类.png)
+![img.png](document/image/内部的分类.png)  
+* 成员内部类  
+![img.png](document/image/成员内部类 .png)  
+* 获取成员内部对象  
+![img.png](document/image/获取成员内部对象.png)
+* 总结:  
+![img.png](document/image/成员内部类的总结.png)
+
+
 
 
 
