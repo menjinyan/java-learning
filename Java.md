@@ -590,6 +590,7 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ![img.png](document/image/Math.png)  
 * Math的常见使用方法  
 ![img.png](document/image/Math类的使用方法.png)
-* 
+* Math的总结  
+![img.png](document/image/Math的总结.png)
 
  
