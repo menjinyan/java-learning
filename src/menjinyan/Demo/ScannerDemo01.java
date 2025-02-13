@@ -1,4 +1,4 @@
-package src.API;
+package src.menjinyan.Demo;
 
 import java.util.Scanner;
 
