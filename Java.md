@@ -591,6 +591,11 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 * Math的常见使用方法  
 ![img.png](document/image/Math类的使用方法.png)
 * Math的总结  
-![img.png](document/image/Math的总结.png)
+![img.png](document/image/Math的总结.png)  
+### 认识System  
+* 什么是System  
+![img.png](document/image/System.png)
+* 计算机中的时间原点  
+![img.png](document/image/计算机中的时间原点.png)
 
  
