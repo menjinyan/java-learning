@@ -596,6 +596,9 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 * 什么是System  
 ![img.png](document/image/System.png)
 * 计算机中的时间原点  
-![img.png](document/image/计算机中的时间原点.png)
+![img.png](document/image/计算机中的时间原点.png)  
+### 认识Runtime  
+* 成员方法  
+![img.png](document/image/Runtime的成员方法.png)
 
  
