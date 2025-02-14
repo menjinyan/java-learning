@@ -44,6 +44,6 @@ public class Demo01 {
         //-s -t 指定时间 :指定关机时间
         //-a :取消关机操作
         //-r:关机并重启
-        Runtime.getRuntime().exec("notepad");
+        Runtime.getRuntime().exec("notepad");//打开记事本
     }
 }
