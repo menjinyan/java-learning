@@ -1,10 +1,8 @@
 package src.API.System;
 
-import src.oop.带有接口和抽象类的javabean.Person;
-
 public class SystemDemo02 {
     public static void main(String[] args) {
-      //  3、 public static void arraycopy(数据源数组，起始索引，目的地数组，起始索引，拷贝数据)  数组拷贝
+        //  3、 public static void arraycopy(数据源数组，起始索引，目的地数组，起始索引，拷贝数据)  数组拷贝
 
         //细节:
         //1、如果数据源数组和目的地数组都是基本数据类型 那么两者的类型都必须保持一致，否者会报错
@@ -27,9 +25,47 @@ public class SystemDemo02 {
             System.out.print(arr2[i] + " ");
         }
          */
-
         //3、如果数据源数组和目的地数组都是数据类型，那么子类类型可以赋值给父类类型
-       /* Student s1=new Student("zhangsan",23);*/
+        Student s = new Student("zhangsan", 23);
+        Student s2 = new Student("lisi", 23);
+        Student s3 = new Student("wangwu", 23);
+    }
+}
 
+class Person {
+    private String name;
+    private int age;
+
+    public Person() {
+    }
+
+    public Person(int age, String name) {
+        this.age = age;
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+}
+
+class Student extends Person {
+    public Student() {
+    }
+
+    public Student(String name, int age) {
+        super(name, age);
     }
 }

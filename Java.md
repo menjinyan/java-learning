@@ -608,6 +608,8 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 在Object中是没有成员变量的，既然没有成员变量，那就没有带参构造的方法  
 **顶级父类中只有无参构造的方法**  
 * Object中的成员方法  
-![img.png](document/image/Object中的成员方法.png)
+![img.png](document/image/Object中的成员方法.png)  
+* 对象克隆  
+![img.png](document/image/Object中的对象克隆.png)
 
  
