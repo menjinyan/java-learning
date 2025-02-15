@@ -3,7 +3,13 @@ package src.API.Object;
 import java.util.Arrays;
 import java.util.StringJoiner;
 
-public class User {
+//在本类中去实现一个额外的接口就是implements Cloneable，在这个接口中是没有任何作用方法的
+//Cloneable
+//如果一个接口里面没有抽象方法
+//表示当前的接口是一个标记性接口
+//现在Cloneable表示一旦实现，那么当前类的对象就可以克隆
+//如果没有实现，当前类的对象就不要不能克隆
+public class User implements Cloneable {
     private int id;//游戏用户
     private String username;//用户名
     private String password;//密码
@@ -122,5 +128,12 @@ public class User {
             sj.add(data[i] + "");
         }
         return sj.toString();
+    }
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        //调用父类中的clone方法
+        //相当于让java帮我们克隆一个对象，并把克隆之后的对象返回出去
+        return super.clone();
     }
 }
