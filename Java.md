@@ -629,4 +629,10 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 * BigInteger构造方法小结  
 ![img.png](document/image/BigInteger构造方法小结.png)  
 * BigInteger常见的成员方法  
-![img.png](document/image/BigInteger常见的成员方法 .png)
+![img.png](document/image/BigInteger常见的成员方法 .png)  
+* BigInteger 底层存储方式  
+![img.png](document/image/BigInteger 底层存储方式.png)  
+* BigInteger存储上限  
+![img.png](document/image/BigInteger存储上限.png)
+* BigInteger小结:  
+![img.png](document/image/BigInteger小结.png)
