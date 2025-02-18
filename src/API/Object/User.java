@@ -134,6 +134,20 @@ public class User implements Cloneable {
     protected Object clone() throws CloneNotSupportedException {
         //调用父类中的clone方法
         //相当于让java帮我们克隆一个对象，并把克隆之后的对象返回出去
-        return super.clone();
+
+
+        //深克隆
+        //先把被克隆对象中的数组获取出来
+        int[] data = this.data;
+        //创建新的数组
+        int[] newData = new int[data.length];
+        //拷贝数组中的数据
+        for (int i = 0; i < data.length; i++) {
+            newData[i] = data[i];
+        }
+        //调用父类中的方法克隆对象
+        User u = (User) super.clone();
+        u.data = newData;
+        return u;
     }
 }
