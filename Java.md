@@ -641,4 +641,10 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 * BigDecimal的使用  
 ![img.png](document/image/BigDecimal的使用.png)  
 * 小结:  
-![img.png](document/image/BigDecimal小结.png)
+![img.png](document/image/BigDecimal小结.png)  
+***  
+### 认识正则表达式  
+* 正则表达式的作用  
+![img.png](document/image/正则表达式的作用.png)  
+* 正则表达式字符的含义  
+![img.png](document/image/正则表达式字符的含义.png)
