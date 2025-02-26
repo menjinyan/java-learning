@@ -60,4 +60,3 @@ public class Demo02 {
         System.out.println("0".matches("[a-z&&[^m-p]]"));//false
     }
 }
-//

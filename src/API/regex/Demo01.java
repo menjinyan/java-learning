@@ -13,7 +13,7 @@ public class Demo01 {
 
      */
     public static void main(String[] args) {
-       String qq = "1234567890";
+        String qq = "1234567890";
         //System.out.println(checkqq(qq));
         System.out.println(qq.matches("[1-9]\\d{5,19}]]"));//正则表达式
     }
