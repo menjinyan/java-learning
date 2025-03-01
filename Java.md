@@ -647,4 +647,7 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 * 正则表达式的作用  
 ![img.png](document/image/正则表达式的作用.png)  
 * 正则表达式字符的含义  
-![img.png](document/image/正则表达式的含义.png)
+![img.png](document/image/正则表达式的含义.png)  
+* 小结:  
+![img.png](document/image/正则表达式小结.png)  
+![img.png](document/image/正则表达式小结.1.png)

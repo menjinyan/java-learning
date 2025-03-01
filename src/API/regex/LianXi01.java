@@ -1,6 +1,6 @@
 package src.API.regex;
 
-public class LianXi {
+public class LianXi01 {
     public static void main(String[] args) {
         /*
         请使用正则表达式完成如下需求
