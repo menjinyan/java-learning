@@ -631,7 +631,7 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 * BigInteger常见的成员方法  
 ![img_1.png](document/image/BigInteger常见的成员方法.png)
 * BigInteger 底层存储方式  
-![img.png](document/image/BigInteger 底层存储方式.png)  捕获和非捕获分组小结
+![img.png](document/image/BigInteger 底层存储方式.png)
 * BigInteger存储上限  
 ![img.png](document/image/BigInteger存储上限.png)
 * BigInteger小结:  
@@ -655,5 +655,5 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ![img.png](document/image/正则表达式在字符串方法中的使用.png)  
 * 正则表达式捕获和非捕获分组  
   ![img.png](document/image/正则表达式捕获和非捕获分组.png)  
-* :  
+* 捕获和非捕获分组小结 :  
 ![img.png](document/image/捕获和非捕获分组小结.png)
