@@ -625,11 +625,11 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ### 认识BigInteger(认识大整数)  
 ![img.png](document/image/认识BigInteger.png)  
 * BigInteger构造方法  
-![img.png](img.png)
+![img.png](document/image/BigInteger构造方法.png)
 * BigInteger构造方法小结  
 ![img.png](document/image/BigInteger构造方法小结.png)  
 * BigInteger常见的成员方法  
-![BigInteger常见的成员方法 .png](document/image/BigInteger%E5%B8%B8%E8%A7%81%E7%9A%84%E6%88%90%E5%91%98%E6%96%B9%E6%B3%95%20.png)
+![img_1.png](document/image/BigInteger常见的成员方法.png)
 * BigInteger 底层存储方式  
 ![img.png](document/image/BigInteger 底层存储方式.png)  捕获和非捕获分组小结
 * BigInteger存储上限  
@@ -637,7 +637,7 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 * BigInteger小结:  
 ![img.png](document/image/BigInteger小结.png)  
 ### BigDecima的作用  
- ![BigDecimal的作用 .png](document/image/BigDecimal%E7%9A%84%E4%BD%9C%E7%94%A8%20.png)
+![img.png](document/image/BigDecima的作用.png)
 * BigDecimal的使用  
 ![img.png](document/image/BigDecimal的使用.png)  
 * 小结:  
