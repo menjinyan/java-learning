@@ -625,7 +625,7 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ### 认识BigInteger(认识大整数)  
 ![img.png](document/image/认识BigInteger.png)  
 * BigInteger构造方法  
-![BigInteger构造方法  .png](document/image/BigInteger%E6%9E%84%E9%80%A0%E6%96%B9%E6%B3%95%20%20.png)
+![img.png](img.png)
 * BigInteger构造方法小结  
 ![img.png](document/image/BigInteger构造方法小结.png)  
 * BigInteger常见的成员方法  
