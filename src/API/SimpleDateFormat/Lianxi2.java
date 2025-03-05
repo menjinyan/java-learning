@@ -1,4 +1,4 @@
-package src.API.simpledateformat;
+package src.API.SimpleDateFormat;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
