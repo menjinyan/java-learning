@@ -1,4 +1,4 @@
-package src.API.JDK7Date;
+package src.API.JDK7.Date;
 
 import java.util.Date;
 

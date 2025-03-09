@@ -1,4 +1,4 @@
-package src.API.Instant;
+package src.API.JDK8.Instant;
 
 import java.time.Instant;
 import java.time.ZoneId;
