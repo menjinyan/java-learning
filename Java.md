@@ -678,6 +678,7 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ![img.png](document/image/Calendar常用方法.png)  
 *Calendar的总结*  
 ![img.png](document/image/Calendar的总结.png)  
+***
 ### JDK8新增时间相关类  
 *为什么要学JDK8新增时间相关类呢?*  
 ![img.png](document/image/为什么要学JDK8新增时间相关类.png)  
@@ -692,4 +693,14 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 *DateTimeFormatter用于时间的格式化和解析*  
 ![img.png](document/image/DateTimeFormatter用于时间的格式化和解析.png)  
 **LocalDate\LocalTime\LocaiDateTime**  
-![img.png](document/image/LocalDate......png)
+![img.png](document/image/LocalDate......png)  
+*JDK8新增时间小结*  
+![img.png](document/image/DK8新增时间小结.png)  
+***  
+### 包装类  
+*什么是包装类?*  
+![img.png](什么是包装类?.png)  
+*包装类第一个小结*  
+![img.png](document/image/包装类第一个小结.png)  
+*Integer成员方法*  
+![img.png](document/image/Integer成员方法.png)
