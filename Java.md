@@ -703,4 +703,8 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 *包装类第一个小结*  
 ![img.png](document/image/包装类第一个小结.png)  
 *Integer成员方法*  
-![img.png](document/image/Integer成员方法.png)
+![img.png](document/image/Integer成员方法.png)  
+***  
+### 常见算法  
+*查找算法*  
+![img.png](document/image/查找算法.png)
