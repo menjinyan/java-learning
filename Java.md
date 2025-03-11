@@ -712,4 +712,12 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ![img.png](document/image/二分查找.png)  
 ![img.png](document/image/二分半查找..png)  
 *二分查找小结*  
-![img.png](document/image/二分查找小结.png)
+![img.png](document/image/二分查找小结.png)  
+*二分查找的改进(插值查找)*  
+![img.png](document/image/插值查找.png)  
+假设每个颜色方块的长度为厘米，那么10到1的长度为9 要查找的数字3到1的长度是2  
+*斐波那契查找*  
+![img.png](document/image/斐波那契查找.png)  
+*查找总结*  
+![img.png](document/image/查找总结.png)
+
