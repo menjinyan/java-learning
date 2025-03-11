@@ -707,4 +707,9 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ***  
 ### 常见算法  
 *查找算法*  
-![img.png](document/image/查找算法.png)
+![img.png](document/image/查找算法.png)  
+*二分查找/折半查找*  
+![img.png](document/image/二分查找.png)  
+![img.png](document/image/二分半查找..png)  
+*二分查找小结*  
+![img.png](document/image/二分查找小结.png)
