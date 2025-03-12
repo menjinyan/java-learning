@@ -719,5 +719,7 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 *斐波那契查找*  
 ![img.png](document/image/斐波那契查找.png)  
 *查找总结*  
-![img.png](document/image/查找总结.png)
+![img.png](document/image/查找总结.png)  
+*分块查找*  
+![img.png](document/image/分块查找.png)
 
