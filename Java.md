@@ -725,4 +725,6 @@ final修饰的变量是引用类型，那么变量存储的地址值不能发生
 ***  
 ### 常见算法  
 #### 冒泡排序  
-[img.png](document/image/冒泡排序.png.png)  
+![img.png](document/image/冒泡排序.png)  
+*核心*  
+![img.png](document/image/冒泡排序的核心.png)
