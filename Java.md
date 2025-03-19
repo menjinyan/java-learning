@@ -841,4 +841,8 @@ http://u5a.cn/yPJJT
 ![img.png](document/image/Lambda表达式的标准格式.png)  
 ![img.png](document/image/Lambda表达式的标准格式.1.png)  
 *Lambda小结*  
-![img.png](document/image/Lambda小结.png)
+![img.png](document/image/Lambda小结.png)  
+*Lambda表达式的省略写法*  
+![img.png](document/image/Lambda表达式的省略写法.png)  
+*lambda表达式的总结*  
+![img.png](document/image/lambda表达式的总结.png)
