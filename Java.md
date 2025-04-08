@@ -846,3 +846,12 @@ http://u5a.cn/yPJJT
 ![img.png](document/image/Lambda表达式的省略写法.png)  
 *lambda表达式的总结*  
 ![img.png](document/image/lambda表达式的总结.png)
+***  
+
+### 集合的体系结构
+
+![img.png](document/image/集合的体系结构.png)  
+*单列集合*  
+![img.png](document/image/单列集合.png)  
+*单列集合(Collection)的方法*  
+![img.png](document/image/单列集合(Collection)的方法.png)
