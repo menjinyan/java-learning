@@ -3,7 +3,7 @@ package src.Collection;
 import java.util.ArrayList;
 import java.util.Collection;
 
-public class Demo05 {
+public class Demo05增强for遍历 {
     public static void main(String[] args) {
 
         //快捷键使用:A.for
