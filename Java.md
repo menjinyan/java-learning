@@ -870,4 +870,8 @@ http://u5a.cn/yPJJT
 *增强for遍历*  
 ![img.png](document/image/增强for遍历.png)  
 1. 增强for遍历细节 
-![img.png](document/image/增强for遍历细节.png)
+![img.png](document/image/增强for遍历细节.png)  
+*Lambda表达式遍历*  
+![img.png](document/image/Lambda表达式遍历.png)  
+*Collection总结*  
+![img.png](document/image/Collection总结.png)
