@@ -863,7 +863,11 @@ http://u5a.cn/yPJJT
 ![img.png](document/image/Collection中的遍历方式.png)  
 *迭代器遍历*  
 ![img.png](document/image/迭代器遍历.png)  
-*迭代器书写的小细节*  
+1. 迭代器书写的小细节 
 ![img.png](document/image/迭代器书写的小细节.png)  
-*迭代器小结*  
-![img.png](document/image/迭代器小结.png)
+2. 迭代器小结*  
+![img.png](document/image/迭代器小结.png)  
+*增强for遍历*  
+![img.png](document/image/增强for遍历.png)  
+1. 增强for遍历细节 
+![img.png](document/image/增强for遍历细节.png)
