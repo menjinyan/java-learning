@@ -862,16 +862,27 @@ http://u5a.cn/yPJJT
 
 ![img.png](document/image/Collection中的遍历方式.png)  
 *迭代器遍历*  
-![img.png](document/image/迭代器遍历.png)  
-1. 迭代器书写的小细节 
-![img.png](document/image/迭代器书写的小细节.png)  
+![img.png](document/image/迭代器遍历.png)
+
+1. 迭代器书写的小细节
+   ![img.png](document/image/迭代器书写的小细节.png)
 2. 迭代器小结*  
-![img.png](document/image/迭代器小结.png)  
-*增强for遍历*  
-![img.png](document/image/增强for遍历.png)  
-1. 增强for遍历细节 
-![img.png](document/image/增强for遍历细节.png)  
-*Lambda表达式遍历*  
-![img.png](document/image/Lambda表达式遍历.png)  
-*Collection总结*  
-![img.png](document/image/Collection总结.png)
+   ![img.png](document/image/迭代器小结.png)  
+   *增强for遍历*  
+   ![img.png](document/image/增强for遍历.png)
+1. 增强for遍历细节
+   ![img.png](document/image/增强for遍历细节.png)  
+   *Lambda表达式遍历*  
+   ![img.png](document/image/Lambda表达式遍历.png)  
+   *Collection总结*  
+   ![img.png](document/image/Collection总结.png)
+
+#### List集合的特点
+
+![img.png](document/image/List集合的特点.png)  
+*List集合的特有方法*  
+![img.png](document/image/List集合的特有方法.png)  
+*list集合的遍历方式*  
+![img.png](document/image/list集合的遍历方式.png)  
+*五种遍历方式对比*  
+![img.png](document/image/五种遍历方式对比.png)
