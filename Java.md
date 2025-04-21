@@ -914,4 +914,21 @@ http://u5a.cn/yPJJT
 ![img.png](document/image/ArrayList集合的底层原理.png)  
 ***  
 #### LinkList集合  
-![img.png](document/image/LinkList集合 .png)
+![img.png](document/image/LinkList集合.png)
+***  
+### 泛型深入  
+*泛型概述*  
+![img.png](document/image/泛型概述.png)  
+*泛型的好处*  
+![img.png](document/image/泛型的好处.png)  
+*泛型的细节*  
+![img.png](document/image/泛型的细节.png)  
+*泛型可以进行的定义*  
+![img.png](document/image/泛型可以进行的定义.png)  
+*泛型类*  
+![img.png](document/image/泛型类.png)  
+*泛型方法*  
+![img.png](document/image/泛型方法01.png)  
+![img.png](document/image/泛型方法02.png)  
+*泛型接口*  
+![img.png](document/image/泛型接口.png)
