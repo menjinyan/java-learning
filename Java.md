@@ -909,6 +909,6 @@ http://u5a.cn/yPJJT
 *总结*  
 ![img.png](document/image/数据结构总结.png)  
 ***
-##### ArrayList集合  
+#### ArrayList集合  
 *ArrayList集合的底层原理*  
-![img.png](document/image/ArrayList集合的底层原理.png)
+![img.png](document/image/ArrayList集合的底层原理.png)  
