@@ -912,3 +912,6 @@ http://u5a.cn/yPJJT
 #### ArrayList集合  
 *ArrayList集合的底层原理*  
 ![img.png](document/image/ArrayList集合的底层原理.png)  
+***  
+#### LinkList集合  
+![img.png](document/image/LinkList集合 .png)
