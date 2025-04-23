@@ -931,4 +931,9 @@ http://u5a.cn/yPJJT
 ![img.png](document/image/泛型方法01.png)  
 ![img.png](document/image/泛型方法02.png)  
 *泛型接口*  
-![img.png](document/image/泛型接口.png)
+![img.png](document/image/泛型接口.png)  
+*泛型的继承和通配符*  
+![img.png](document/image/泛型的继承和通配符.png)  
+*泛型小结*  
+![img.png](document/image/泛型小结01.png)  
+![img.png](document/image/泛型小结02.png)

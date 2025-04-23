@@ -3,7 +3,7 @@ package src.MyList;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Dmo02 {
+public class Demo02 {
     public static void main(String[] args) {
         /*
         List系列集合中的两个删除的方法
