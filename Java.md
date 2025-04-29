@@ -936,4 +936,26 @@ http://u5a.cn/yPJJT
 ![img.png](document/image/泛型的继承和通配符.png)  
 *泛型小结*  
 ![img.png](document/image/泛型小结01.png)  
-![img.png](document/image/泛型小结02.png)
+![img.png](document/image/泛型小结02.png)  
+### 数据结构(树)  
+![img.png](document/image/二叉树的基本结构.png)  
+*二叉查找树*  
+![img.png](document/image/二叉查找树的特点.png)  
+![img.png](document/image/二叉查找树的规则.png)  
+#### 二叉树的遍历方式  
+![img.png](document/image/二叉树的遍历方式.png)  
+*前序遍历*  
+![img.png](document/image/前序遍历.png)  
+*中序遍历*  
+![img.png](document/image/中序遍历.png)  
+*后序遍历*  
+![img.png](document/image/后序遍历.png)  
+*层序遍历*  
+![img.png](document/image/层序遍历.png)  
+*二叉树遍历方式的总结*  
+![img.png](document/image/二叉树遍历方式的总结.png)  
+*数据结构(二叉树小结)*  
+![img.png](document/image/数据结构(二叉树小结)01.png)  
+![img.png](document/image/数据结构(二叉树小结)02.png)  
+*数据结构(平衡二叉树)*  
+![img.png](document/image/数据结构(平衡二叉树).png)
