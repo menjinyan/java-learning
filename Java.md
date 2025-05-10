@@ -969,6 +969,7 @@ http://u5a.cn/yPJJT
 *数据结构(平衡二叉树)左左*  
 ![img.png](document/image/数据结构(平衡二叉树)左左.png)  
 一次右旋  
+
 *数据结构(平衡二叉树)左右*
 ![img.png](document/image/数据结构(平衡二叉树)左右.png)  
 先局部左旋，再整体右旋  
