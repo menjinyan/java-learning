@@ -1015,3 +1015,33 @@ http://u5a.cn/yPJJT
 ##### 数据结构(红黑树)添加节点的规则  
 默认颜色:添加节点默认是红色的(效率高)  
 
+***
+# Set集合  
+### Set系列集合  
+![img.png](document/image/Set系列集合.png)  
+### Set集合的实现类  
+ ![img.png](document/image/Set集合的实现类.png)
+**Set接口中的方法上基本上与Collection的API一致**  
+
+### 回顾一波Collentio  
+![img.png](document/image/回顾一波Collentio.png)  
+### Set总结  
+![img.png](document/image/Set总结.png)  
+
+### HashSet底层原理  
+![img.png](document/image/HashSet底层原理.png)  
+### 哈希表组成  
+![img.png](document/image/哈希表组成.png)  
+### 哈希值  
+![img.png](document/image/哈希值.png)  
+### 对象的哈希值特点  
+![img.png](document/image/对象的哈希值特点.png)  
+  
+### HashSet JDK8以前的底层原理  
+![img.png](document/image/HashSet JDK8以前的底层原理.png)  
+![img.png](document/image/HashSet JDK8以前的底层原理01.png)  
+  
+### LinkedHashSet 底层原理  
+![img.png](document/image/LinkedHashSet 底层原理.png)  
+**LinkedHashSet总结**  
+![img.png](document/image/LinkedHashSet总结.png)
