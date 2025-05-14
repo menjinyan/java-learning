@@ -1044,4 +1044,16 @@ http://u5a.cn/yPJJT
 ### LinkedHashSet 底层原理  
 ![img.png](document/image/LinkedHashSet 底层原理.png)  
 **LinkedHashSet总结**  
-![img.png](document/image/LinkedHashSet总结.png)
+![img.png](document/image/LinkedHashSet总结.png)  
+  
+### TreeSet  
+**TreeSet特点**  
+![img.png](document/image/TreeSet特点.png)  
+**TreeSet集合默认的规则**  
+![img.png](document/image/TreeSet集合默认的规则.png)  
+**TreeSet两种比较方式**  
+![img.png](document/image/TreeSet两种比较方式.png)  
+**TreeSet总结**  
+![img.png](document/image/TreeSet总结.png)  
+**使用场景**  
+![img.png](document/image/使用场景.png)
