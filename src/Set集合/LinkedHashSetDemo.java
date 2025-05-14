@@ -1,7 +1,6 @@
 package src.Set集合;
 
 import java.util.LinkedHashSet;
-import java.util.List;
 
 public class LinkedHashSetDemo {
     public static void main(String[] args) {
